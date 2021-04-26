@@ -1,0 +1,41 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.bc ,h1 {
+  margin-top: 80px;
+  font-size: 35px;
+  font-weight: bolder;
+  color: darkblue;
+  background: #cccccc;
+  height: 45px;
+  width: 500px;
+  box-shadow: 0 30px 50px 3px gray;
+}
+.calc {
+  margin-top: 10%;
+  height: 1200px;
+  width: 730px;
+  box-shadow: 40px 40px 80px 10px gray;
+  background: #003333;
+  box-sizing: 30pt;
+}
+.button{
+  margin-top: 10px;
+  margin-left: 10px;
+  height: 145px;
+  width: 145px;
+  background: #333333;
+  color: white;
+}
+.text{
+  text-align: right;
+  width: 650px;
+  height: 150px;
+  background: rgb(50 80 90);
+  color: white;
+  font-size: 50px;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  border-radius: 5pt;
+}
